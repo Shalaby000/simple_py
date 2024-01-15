@@ -1,4 +1,5 @@
 from datetime import datetime
-/usr/bin/bash: line 1: qw:: command not found
+today_date = datetime.datetime.today()
+print(today_date)
 
 print("Python File especially for Jenkins")
